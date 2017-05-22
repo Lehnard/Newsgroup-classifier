@@ -2,7 +2,7 @@
 Maria Calvo, David Griñán, Jordi Aceiton 
 
 ## What is it?
-This is a project to build a news classificator as an exercise to practice Machine learning classification problems.
+TThis is a project to build a news classificator as an exercise to practice *Text Mining* and *Machine learning* classification problems.
 
 ## Data: 
 
