@@ -1,0 +1,53 @@
+ Can the open source upstart really stand up to Microsoft's enterprise juggernaut?
+
+Many people believe that if you don't want to use the Windows operating system, the only other option is to fork out almost obscene amounts of cash for a Mac. There is, however, another option.
+
+Linux is frequently overlooked by the general public and doesn't get much attention outside of hardcore enthusiasts. Some people perceive it to be overly complicated and unintuitive, while some simply aren't really aware of its existence.
+
+In actuality, the Linux family offers a host of sleek, functional and user-friendly desktop environments, many of which offer an equal (or even superior) alternative to Windows. So how do they stack up against each other?
+
+We've put the OG OS up against the open source staple to find out.
+See related 
+How to speed up Windows 10
+Best Linux distros
+Windows 10 release date, features, devices and free upgrade: Half a billion devices around the world run on Windows 10
+Windows vs Linux: Distros
+
+Before we dive into a full breakdown, we need to tackle one of Linux’s most confusing barriers to entry. While Windows has so far maintained a fairly straightforward version structure, with progressive iterations divided by tier, Linux is much more complex.
+
+Originally designed by Finnish student Linus Torvalds, the Linux Kernel forms the basis for all Linux operating systems. However, as it’s open source, it can be modified and altered by anyone to create their own custom versions of the software.
+
+As a result, there are hundreds of different Linux-based operating systems known as distributions, or ‘distros’. This makes reviewing and choosing between them much more complicated than simply picking Windows 7, Windows 8 or Windows 10.
+
+These distros can vary wildly in design, functionality and sophistication, and are often constantly changing. The differences between them aren’t always obvious either, and the choice can seem overwhelming.
+
+On the other hand, one of the benefits of an open source OS is that you’re free to try as many different distros as you like at no cost. The most popular one, and the closest Linux has to a ‘standard’ OS, is Ubuntu, which makes things as simple as possible for those new to Linux.
+
+Other popular distros include Linux Mint, Debian, and Fedora, the last of which Torvalds personally uses on all his PCs. There are lean builds designed to make the most out of underpowered hardware, graphics-intensive builds designed to look as attractive as possible, and everything in between.
+Windows vs Linux: Installation
+
+Still with us? Good; now we move on to looking at installation. Again, this differs a little from Windows methods, as well as varying between distros.
+
+A common feature of Linux OS’ is the ability to ‘live’ boot them – that is, booting from a DVD or USB image without having to actually install the OS on your machine. This can be a great way to quickly test out if you like a distro without having to commit to it.
+
+The distro can then be installed from within the live-booted OS, or simply run live for as long as you need. However, while more polished distros such as Ubuntu are a doddle to set up, some of the less user-friendly examples require a great deal more technical know-how to get up and running.
+
+Windows installations, by contrast, while more lengthy and time consuming, are a lot simpler, requiring a minimum of user input compared to many distros.
+Windows vs Linux: Software and compatibility
+
+Most applications are tailored to be written for Windows. You will find some Linux-compatible versions, but only for very popular software. The truth, though, is that most Windows programs aren't available for Linux.
+
+A lot of people who have a Linux system instead install a free, open source alternative. There are applications for almost every program you can think of. If this isn't the case, then programs such as WINE or a VM can run Windows software in Linux instead.
+
+Despite this, these alternatives are more likely to be amateur efforts compared to Windows. If your business requires a certain application then it's necessary to check if Linux runs a native version or if an acceptable replacement exists.
+
+There are also differences in how Linux software installs programs compared with Windows. In Windows you download and run an executable file (.exe). In Linux, programs are mostly installed from a software repository tied to a specific distro.
+
+Installing on Linux is done by typing an apt-get command from the command line. A package manager handles this by layering a graphical user interface over the messy mechanics of typing in the right combination of words and commands. This is in many ways the pre-cursor of a mobile device's app store.
+
+Depending on the software, some won't be held in a repository and will have to be downloaded and installed from source, such as the non-open source variants of proprietary software like Skype or Steam.
+
+In this case, the installation becomes more similar to that of Windows software. You simply download the relevant package for your distro from the company's website, and the inbuilt package installer will complete the rest.
+
+Windows has a big advantage over Linux which is that in the software stakes, virtually every program is designed from the ground-up with Windows support in mind. In general, Windows users aren't affected by compatibility worries. As mentioned previously, set-up is also often a much simpler affair.
+

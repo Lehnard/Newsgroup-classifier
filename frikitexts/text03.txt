@@ -1,0 +1,46 @@
+OF THE MOTION OF BODIES.
+
+
+SECTION I.
+Of the method of first and last ratios of quantities, by the help whereof we demonstrate the propositions that follow.
+
+
+LEMMA I.
+
+Quantities, and the ratios of quantities, which in any finite time converge continually to equality, and before the end of that time approach nearer the one to the other than by any given difference, become ultimately equal.
+
+If you deny it, suppose them to be ultimately unequal, and let D be their ultimate difference. Therefore they cannot approach nearer to equality than by that given difference D; which is against the supposition.
+
+
+LEMMA II.
+Principia1846-095.png
+
+If in any figure AacE, terminated by the right lines Aa, AE, and the curve acE, there be inscribed any number of parallelograms Ab, Bc, Cd, &c., comprehended under equal bases AB, BC, CD, &c., and the sides, Bb, Cc, Dd, &c., parallel to one side Aa of the figure; and the parallelograms aKbl, bLcm, cMdn, &c., are completed. Then if the breadth of those parallelograms be supposed to be diminished, and their number to be augmented in infinitum; I say, that the ultimate ratios which the inscribed figure AKbLcMdD, the circumscribed figure AalbmcndoE, and curvilinear figure AabcdE, will have to one another, are ratios of equality.
+
+For the difference of the inscribed and circumscribed figures is the sum of the parallelograms Kl, Lm, Mu, Do, that is (from the equality of all their bases), the rectangle under one of their bases Kb and the sum of their altitudes Aa, that is, the rectangle ABla. But this rectangle, because its breadth AB is supposed diminished in infinitum, becomes less than any given space. And therefore (by Lem. I) the figures inscribed and circumscribed become ultimately equal one to the other; and much more will the intermediate curvilinear figure be ultimately equal to either.    Q.E.D.
+
+
+LEMMA III.
+
+The same ultimate ratios are also ratios of equality, when the, breadths, AB, BC, DC, &c., of the parallelograms are unequal, and are all diminished in infinitum.
+Principia1846-095.png
+
+For suppose AF equal to the greatest breadth, and complete the parallelogram FAaf. This parallelogram will be greater than the difference of the inscribed and circumscribed figures; but, because its breadth AF is diminished in infinitum, it will be come less than any given rectangle.   Q.E.D.
+
+Cor. 1. Hence the ultimate sum of those evanescent parallelograms will in all parts coincide with the curvilinear figure.
+
+Cor. 2. Much more will the rectilinear figure comprehended under the chords of the evanescent arcs ab, bc, cd, &c., ultimately coincide with the curvilinear figure.
+
+Cor. 3. And also the circumscribed rectilinear figure comprehended under the tangents of the same arcs.
+
+Cor. 4 And therefore these ultimate figures (as to their perimeters acE) are not rectilinear, but curvilinear limits of rectilinear figures.
+
+
+LEMMA IV.
+Principia1846-096.png
+
+If in two figures AacE, PprT, you inscribe (as before) two ranks of parallelograms, an equal number in each rank, and, when their breadths are diminished in infinitum, the ultimate ratios of the parallelograms in one figure to those in the other, each to each respectively, are the same; I say, that those two figures AacE, PprT, are to one another in that same ratio.
+
+For as the parallelograms in the one are severally to the parallelograms in the other, so (by composition) is the sum of all in the one to the sum of all in the other; and so is the one figure to the other; because (by Lem. III) the former figure to the former sum, and the latter figure to the latter sum, are both in the ratio of equality.   Q.E.D.
+
+Cor. Hence if two quantities of any kind are any how divided into an equal number of parts, and those parts, when their number is augmented, and their magnitude diminished in infinitum, have a given ratio one to the other, the first to the first, the second to the second, and so on in order, the whole quantities will be one to the other in that same given ratio. For if, in the figures of this Lemma, the parallelograms are taken one to the other in the ratio of the parts, the sum of the parts will always be as the sum of the parallelograms; and therefore supposing the number of the parallelograms and parts to be augmented, and their magnitudes diminished in infinitum, those sums will be in the ultimate ratio of the parallelogram in the one figure to the correspondent parallelogram in the other; that is (by the supposition), in the ultimate ratio of any part of the one quantity to the correspondent part of the other.

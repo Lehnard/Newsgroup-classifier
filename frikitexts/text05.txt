@@ -1,0 +1,32 @@
+§ 2. On the Relativity of Length and Time.
+
+The following reflections are based on the Principle of Relativity and on the Principle of Constancy of the velocity of light, both of which we define in the following way :—
+
+1. The laws according to which the nature of physical systems alter are independent of the manner in which these changes are referred to two co-ordinate systems which have a uniform translatory motion relative to each other.
+
+2. Every ray of light moves in the "stationary co-ordinate system" with the same velocity c, the velocity being independent of the condition whether this ray of light is emitted by a body at rest or in motion. Therefore
+velocity = Path of Light Interval of time , {\displaystyle {\text{velocity}}={\frac {\text{Path of Light}}{\text{Interval of time}}},} {\displaystyle {\text{velocity}}={\frac {\text{Path of Light}}{\text{Interval of time}}},}
+
+where, by 'interval of time,' we mean time as defined in § 1.
+
+Let us have a rigid rod at rest ; this has a length l, when measured by a measuring rod at rest ; we suppose that the axis of the rod is laid along the X-axis of the system at rest, and then a uniform velocity v, parallel to the axis of X, is imparted to it. Let us now enquire about the length of the moving rod ; this can be obtained by either of these operations.—
+
+(a) The observer provided with the measuring rod moves along with the rod to be measured, and measures by direct superposition the length of the rod : — just as if the observer, the measuring rod, and the rod to be measured were at rest.
+
+(b) The observer finds out, by means of clocks placed in a system at rest (the clocks being synchronous as defined in § 1), the points of this system where the ends of the rod to be measured occur at a particular time t. The distance between these two points, measured by the previously used measuring rod, this time it being at rest, is a length, which we may call the "length of the rod."
+
+According to the Principle of Relativity, the length found out by the operation a), which we may call "the length of the rod in the moving system" is equal to the length l of the rod in the stationary system.
+
+The length which is found out by the second method, may be called 'the length of the moving rod measured from the stationary system'. This length is to be estimated on the basis of our principle, and we shall find it to he different from l.
+
+In the generally recognised kinematics, we silently assume that the lengths defined by these two operations are equal, or in other words, that at an epoch of time t, a moving rigid body is geometrically replaceable by the same body, which can replace it in the condition of rest.
+Relativity of Time.
+
+Let us suppose that the two clocks synchronous with the clocks in the system at rest are brought to the ends A, and B of a rod, i.e., the time of the clocks correspond to the time of the stationary system at the points where they happen to arrive ; these clocks are therefore synchronous in the stationary system.
+
+We further imagine that there are two observers at the two watches, and moving with them, and that these observers apply the criterion for synchronism to the two clocks. At the time tA, a ray of light goes out from A, is reflected from B at the time tB, and arrives back at A at time t'A. Taking into consideration the principle of constancy of the velocity of light, we have
+t B - t A = r A B c - v {\displaystyle t_{B}-t_{A}={\frac {r_{AB}}{c-v}}} {\displaystyle t_{B}-t_{A}={\frac {r_{AB}}{c-v}}} ,
+
+and
+t A ' - t B = r A B c + v {\displaystyle t'_{A}-t_{B}={\frac {r_{AB}}{c+v}}} {\displaystyle t'_{A}-t_{B}={\frac {r_{AB}}{c+v}}} ,
+where r A B {\displaystyle r_{AB}} {\displaystyle r_{AB}} is the length of the moving rod, measured in the stationary system. Therefore the observers stationed with the watches will not find the clocks synchronous, though the observer in the stationary system must declare the clocks to be synchronous. We therefore see that we can attach no absolute significance to the concept of synchronism ; but two events which are synchronous when viewed from one system, will not be synchronous when viewed from a system moving relatively to this system. 
