@@ -63,4 +63,4 @@ The basic tool to:
 
 **lda_main.R**
 
-The idea was to create a script to apply latent dirichlet allocation (lda) to make topic analysis. 
+The idea was to create a script to apply latent dirichlet allocation (lda) to make topic modeling. 
